@@ -8,5 +8,6 @@ sorts.py - The two simple nlogn sorts
 
 substring.py - Program to find the longest palindrome substring, both dynamically and via brute force
 
+powerset.py - Trivial program to generate the powerset of array a
 
 permute.py - O(n*n!) program to print permutations of a string
